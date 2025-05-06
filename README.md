@@ -1,2 +1,2 @@
 # ProvaWeb
-Prova destinada a displina de web avançado
+Prova destinada a matéria de web avançado
